@@ -1,9 +1,9 @@
 const LinksSocialMedia = {
   github: 'Levy-Santos',
-  youtube: 'UCo4jW_6FKgIo2xlCNtTSMLg',
-  facebook: 'levy.s.paula',
-  instagram: 'levy_ssantos',
-  twitter: 'Xlevy_SantosX'
+  youtube: '',
+  facebook: '',
+  instagram: '',
+  twitter: ''
 }
 
 function changeSocialMediaLinks() {
